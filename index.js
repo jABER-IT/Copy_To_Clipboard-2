@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 
@@ -14,27 +13,24 @@
 
 		
     111111111111111
-    body: "This is my notification",
+    body: "This is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notification",
     icon: "ICON_URL",
     image: "IMAGE_URL"
-});
 
      </code></pre></div>
 
 	<div class="K2_CBox"><pre class="prettyprint lang-scm highlight"><code>
    22222222222222
-    body: "This is my notification",
+   body: "This is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notification",
     icon: "ICON_URL",
     image: "IMAGE_URL"
-});
      </code></pre></div>
 
 	<div class="K2_CBox"><pre class="prettyprint lang-scm highlight"><code>
 333333333333333333
-    body: "This is my notification",
+body: "This is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notificationThis is my notification",
     icon: "ICON_URL",
     image: "IMAGE_URL"
-});
      </code></pre></div>
 	<div class="lNotf" id="LefttNotif"></div>
 
